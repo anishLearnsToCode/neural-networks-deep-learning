@@ -21,9 +21,16 @@ on Coursera.
 - [Quiz: Introduction to Deep Learning](week_1/introduction-to-deep-learning-quiz.md)
 
 ## Week 2
+- [Quiz: Neural Networks Basics]()
+- [Programming Assignment: Logistic Regression with a Neural Network]()
 
 ## Week 3
+- [Quiz: Shallow Neural Networks]()
+- [Programming Assignment: Planar data classification with a hidden layer]()
 
 ## Week 4
+- [Quiz: Key Concepts on Deep Neural Networks]()
+- [Programming Assignment: Building your deep neural network step by step]()
+- [Programming Assignment: Deep Neural Network Application]()
 
 ## [Certificate]()

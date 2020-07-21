@@ -18,6 +18,7 @@ on Coursera.
 - [Certificate]()
 
 ## Week 1
+- [Quiz: Introduction to Deep Learning](week_1/introduction-to-deep-learning-quiz.md)
 
 ## Week 2
 

@@ -7,7 +7,8 @@ __Course by deeplearning.ai__
 [![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
 This is part of the 5 course specialization on 
-[Deep Learning]() on Coursera. 
+[Deep Learning](https://github.com/anishLearnsToCode/deep-learning-ai) 
+on Coursera. 
 
 ## Index
 - [Week 1]()

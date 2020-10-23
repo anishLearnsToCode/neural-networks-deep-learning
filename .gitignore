@@ -4,3 +4,9 @@ out
 dist
 *.iml
 __pycache__
+.ipynb_checkpoints
+week_1/__pycache__
+week_2/__pycache__
+week_2/.ipynb_checkpoints
+week_3/__pycache__
+week_4/__pycache__

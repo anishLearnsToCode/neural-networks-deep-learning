@@ -19,7 +19,8 @@ on Coursera. This is the first course.
 - [Quiz: Introduction to Deep Learning](week_1/introduction-to-deep-learning-quiz.md)
 
 ## Week 2
-- [Quiz: Neural Networks Basics]()
+- [Quiz: Neural Networks Basics](week_2/neural-networks-basics-quiz.md)
+- [Lab: Python Basics With Numpy (Optional)]()
 - [Programming Assignment: Logistic Regression with a Neural Network]()
 
 ## Week 3

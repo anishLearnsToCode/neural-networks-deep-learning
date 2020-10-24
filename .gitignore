@@ -2,6 +2,7 @@
 venv
 out
 dist
+data
 *.iml
 __pycache__
 .ipynb_checkpoints

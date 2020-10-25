@@ -24,7 +24,7 @@ on Coursera. This is the first course.
 - [Programming Assignment: Logistic Regression with a Neural Network](week_2/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 ## Week 3
-- [Quiz: Shallow Neural Networks]()
+- [Quiz: Shallow Neural Networks](week_3/shallow-neural-networks.md)
 - [Programming Assignment: Planar data classification with a hidden layer]()
 
 ## Week 4

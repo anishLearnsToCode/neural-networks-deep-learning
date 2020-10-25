@@ -3,3 +3,5 @@ opencv-python
 pandas
 tensorflow
 keras
+h5py
+scipy

@@ -21,7 +21,7 @@ on Coursera. This is the first course.
 ## Week 2
 - [Quiz: Neural Networks Basics](week_2/neural-networks-basics-quiz.md)
 - [Lab: Python Basics With Numpy (Optional)](week_2/Python_Basics_With_Numpy.ipynb)
-- [Programming Assignment: Logistic Regression with a Neural Network]()
+- [Programming Assignment: Logistic Regression with a Neural Network](week_2/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 ## Week 3
 - [Quiz: Shallow Neural Networks]()

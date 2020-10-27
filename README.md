@@ -25,7 +25,7 @@ on Coursera. This is the first course.
 
 ## Week 3
 - [Quiz: Shallow Neural Networks](week_3/shallow-neural-networks.md)
-- [Programming Assignment: Planar data classification with a hidden layer]()
+- [Programming Assignment: Planar data classification with a hidden layer](week_3/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
 
 ## Week 4
 - [Quiz: Key Concepts on Deep Neural Networks]()

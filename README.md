@@ -28,7 +28,7 @@ on Coursera. This is the first course.
 - [Programming Assignment: Planar data classification with a hidden layer](week_3/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
 
 ## Week 4
-- [Quiz: Key Concepts on Deep Neural Networks]()
+- [Quiz: Key Concepts on Deep Neural Networks](week_4/quiz-key-concepts-deep-neural-networks.md)
 - [Programming Assignment: Building your deep neural network step by step]()
 - [Programming Assignment: Deep Neural Network Application]()
 

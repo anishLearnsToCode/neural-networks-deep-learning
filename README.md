@@ -32,4 +32,5 @@ on Coursera. This is the first course.
 - [Programming Assignment: Building your deep neural network step by step](week_4/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 - [Programming Assignment: Deep Neural Network Application](week_4/deep-neural-network-application-image-classification/Deep+Neural+Network+-+Application+v8.ipynb)
 
-## [🎓 Certificate]()
+## [🎓 Certificate](assets/certificate.pdf)
+![certificate](assets/certificate.PNG)
